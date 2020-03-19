@@ -1,1 +1,2 @@
-# jquery-to-vanilla-js
+# jQuery to Vanilla JS
+
